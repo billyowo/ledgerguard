@@ -6,7 +6,8 @@
 Powered by **TensorMux GLM-4.7-Flash** (`https://api.tensormux.com/v1`, 30B MoE agentic model) and built natively with **AO (Agentic Orchestrator)**.
 
 # VIDEO LINK 
-https://youtu.be/73W4Pd5m744
+
+[![Watch the video](https://youtu.be/73W4Pd5m744)](https://youtu.be/73W4Pd5m744)
 
 ---
 
